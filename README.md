@@ -85,33 +85,45 @@ To represent the business growth of Olist, the following key metrics were analyz
 | ![Monthly Revenue](https://raw.githubusercontent.com/yourusername/olist-marketing-automation/main/reports/Monthly%20Revenue.png) | ![Top 10 Product](https://raw.githubusercontent.com/yourusername/olist-marketing-automation/main/reports/Top%2010%20Product%20by%20GMV.png) |
 | *Visualizing a steady revenue climb with a peak in late 2017.* | *Health & Beauty leads the GMV contribution at 14.7%.* |
 
-### 📈 Project 2: Logistic Delivery Higlights
-To represent the business growth of Olist, the following key metrics were analyzed:
+---
 
-| Monthly Revenue & Growth | Top 10 Categories by GMV |
+### 🚚 Project 2: Logistics & Delivery Excellence
+Fokus pada optimalisasi rantai pasok dan pemetaan performa pengiriman di seluruh negara bagian Brasil untuk menekan angka keterlambatan.
+
+| State Performance: Lead Time vs OTD% | Olist Business Priority Matrix |
 |---|---|
-
-### 📈 Project 3: Customer rfm Highlights
-To represent the business growth of Olist, the following key metrics were analyzed:
-
-| Monthly Revenue & Growth | Top 10 Categories by GMV |
-|---|---|
-
-### 📈 Project 4: Sentiment Highlights
-To represent the business growth of Olist, the following key metrics were analyzed:
-
-| Monthly Revenue & Growth | Top 10 Categories by GMV |
-|---|---|
-
-**Key Sales Insights:**
-* **Revenue Trend:** Significant growth observed starting Jan 2017, reaching peaks above 1.1M BRL.
-* **Monthly Active Users:** Consistent MAU growth peaking at over 7,000 unique customers.
-* **Order Value:** Maintained a healthy Average Order Value (AOV) around 154.41 BRL.
+| ![State Performance](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/state_performance.png) | ![Priority Matrix](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/olist%20business%20priority%20matrix.png) |
+| *Analisis korelasi antara waktu pengiriman rata-rata dan persentase On-Time Delivery.* | *Pemetaan topik masalah untuk menentukan skala prioritas perbaikan operasional.* |
 
 ---
 
-### 🤖 Project 4: Sentiment AI Command Center
-The "5-Second Rule" dashboard for executive decision-making:
+### 👥 Project 3: Customer Segmentation (RFM Analysis)
+Mengklasifikasikan pelanggan berdasarkan perilaku transaksi untuk personalisasi strategi pemasaran dan peningkatan retensi.
 
-![Sentiment Dashboard Preview](https://raw.githubusercontent.com/yourusername/olist-marketing-automation/main/reports/Sentiment_Dashboard.png)
-*Automated monitoring of Revenue at Risk and Priority Tiers.*
+| Customer Segmentation & Monetary Value | Strategic Recovery Actions |
+|---|---|
+| ![Customer Segmentation](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/customer%20segmentation.png) | ![Recovery Actions](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3e4ca5.png) |
+| *Visualisasi komposisi segmen 'Champions' hingga 'At Risk' berdasarkan kontribusi moneter.* | *Distribusi tindakan pemulihan otomatis untuk meminimalkan churn pada pelanggan kritis.* |
+
+---
+
+### 🤖 Project 4: AI Sentiment Command Center
+Implementasi NLP (Natural Language Processing) untuk mendeteksi sentimen pelanggan secara real-time dan mengotomatisasi respon layanan pelanggan.
+
+| AI Sentiment Command Center Overview | Keyword Impact Analysis |
+|---|---|
+| ![Sentiment Overview](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3ec182.png) | ![Keyword Impact](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3e4ce0.png) |
+| *Monitoring sentimen negatif secara real-time dengan estimasi Revenue at Risk.* | *Top 20 kata kunci dalam bahasa Portugis yang paling memengaruhi prediksi model AI.* |
+
+---
+## 🤝 Contact & Contribution
+I am a Data Analyst passionate about transforming complex datasets into clear business narratives. Feel free to reach out for collaboration or inquiries!
+
+* **Author**: [Muhamad Syakirullah]
+* **LinkedIn**: [https://www.linkedin.com/in/syakirworks/]
+* **Email**: [syakirworksid@gmail.com]
+* **Fiverr**: [https://www.fiverr.com/sellers/tajulmuluk/]
+
+---
+*Developed as part of the iFood Marketing Intelligence Project - 2026*
+
