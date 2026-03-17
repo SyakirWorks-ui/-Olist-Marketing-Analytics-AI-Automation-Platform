@@ -95,7 +95,7 @@ Focuses on supply chain optimization and delivery performance mapping across Bra
 | State Performance: Lead Time vs OTD% | Olist Business Priority Matrix |
 |---|---|
 | ![State Performance](<img width="993" height="450" alt="state_performance" src="https://github.com/user-attachments/assets/3909133b-4f85-4285-93cf-ab78095f406e" />
-) | ![Correlation Matrix](<img width="993" height="450" alt="state_performance" src="https://github.com/user-attachments/assets/bd740b6e-c0ab-425a-a0ce-30cc0b93d49c" />
+) | ![Correlation Matrix](<img width="1077" height="450" alt="correlation matrix" src="https://github.com/user-attachments/assets/72e66b5f-1aa3-41bd-a16e-535a21a9ab1b" />
 ) |
 | *Correlation analysis between average delivery time and On-Time Delivery percentage.* | *Mapping of problem topics to determine the priority scale of operational improvements.* |
 
