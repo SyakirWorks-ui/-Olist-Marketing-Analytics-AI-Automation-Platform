@@ -1,0 +1,57 @@
+2026-02-16 13:18:45,337 - INFO - [<module>] - Sistem Logging berhasil diinisialisasi dengan encoding UTF-8.
+2026-02-16 13:18:45,338 - INFO - [__init__] - 🚀 Memulai Inisialisasi SentimentRecoveryEngine...
+2026-02-16 13:18:45,340 - INFO - [__init__] - ✅ Konfigurasi Bisnis (Phase 05) berhasil dimuat.
+2026-02-16 13:18:55,698 - CRITICAL - [__init__] - ⛔ CRITICAL ERROR saat Init: Can't get attribute 'ReviewCleaner' on <module '__main__' from 'c:\\Users\\etc\\OneDrive\\Documents\\Marketing Data Analyst Portofolio\\Olist_Ecommerce_Analytics_Portfolio\\notebooks & py\\04_sentiment_analysis\\Production Phase\\automation_engine.py'>
+2026-02-16 13:24:35,176 - INFO - [<module>] - Sistem Logging berhasil diinisialisasi dengan encoding UTF-8.
+2026-02-16 13:24:35,179 - INFO - [__init__] - 🚀 Memulai Inisialisasi SentimentRecoveryEngine...
+2026-02-16 13:24:35,181 - INFO - [__init__] - ✅ Konfigurasi Bisnis (Phase 05) berhasil dimuat.
+2026-02-16 13:24:44,590 - INFO - [__init__] - ✅ Model Sentiment Predictor (Phase 03) berhasil dimuat.
+2026-02-16 13:24:44,611 - INFO - [execute_pipeline] - ▶️ START PIPELINE EXECUTION
+2026-02-16 13:24:44,616 - INFO - [execute_pipeline] - 📂 Membaca Raw Data dari: c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\processed\01_olist_master_joiin_cleaned.csv
+2026-02-16 13:24:44,625 - ERROR - [execute_pipeline] - 🔥 PIPELINE FAILED: Raw data file tidak ditemukan.
+2026-02-16 13:24:44,632 - INFO - [execute_pipeline] - 🏁 Execution Finished. Duration: 0:00:00.017227
+2026-02-16 13:25:40,833 - INFO - [<module>] - Sistem Logging berhasil diinisialisasi dengan encoding UTF-8.
+2026-02-16 13:25:40,834 - INFO - [__init__] - 🚀 Memulai Inisialisasi SentimentRecoveryEngine...
+2026-02-16 13:25:40,835 - INFO - [__init__] - ✅ Konfigurasi Bisnis (Phase 05) berhasil dimuat.
+2026-02-16 13:25:44,065 - INFO - [__init__] - ✅ Model Sentiment Predictor (Phase 03) berhasil dimuat.
+2026-02-16 13:25:44,092 - INFO - [execute_pipeline] - ▶️ START PIPELINE EXECUTION
+2026-02-16 13:25:44,094 - INFO - [execute_pipeline] - 📂 Membaca Raw Data dari: c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\processed\01_olist_master_join_cleaned.csv
+2026-02-16 13:25:50,374 - INFO - [execute_pipeline] -    Data dimuat: 110,182 baris.
+2026-02-16 13:25:50,375 - INFO - [run_inference] - 🧠 Menjalankan AI Inference (Prediksi Sentimen)...
+2026-02-16 13:25:50,396 - INFO - [run_inference] -    ...Preprocessing teks ulasan
+2026-02-16 13:25:50,804 - INFO - [run_inference] -    ...Melakukan prediksi batch
+2026-02-16 13:26:07,108 - INFO - [apply_prescriptive_logic] - ⚖️ Menerapkan Prescriptive Logic (Business Rules)...
+2026-02-16 13:26:07,379 - INFO - [execute_pipeline] - 💾 Menyimpan hasil ke Parquet: c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\production\sentiment\final_actionable_list.parquet
+2026-02-16 13:26:08,797 - INFO - [execute_pipeline] - 📊 DAILY SUMMARY REPORT:
+2026-02-16 13:26:08,798 - INFO - [execute_pipeline] - {
+  "execution_date": "2026-02-16 13:26:08",
+  "total_processed": 110182,
+  "negative_sentiment_detected": 0,
+  "critical_recovery_actions": 0,
+  "total_revenue_at_risk": 0.0,
+  "status": "SUCCESS"
+}
+2026-02-16 13:26:08,799 - INFO - [execute_pipeline] - 🏁 Execution Finished. Duration: 0:00:24.706973
+2026-02-16 17:42:09,893 - INFO - [<module>] - Sistem Logging berhasil diinisialisasi dengan encoding UTF-8.
+2026-02-16 17:42:09,898 - INFO - [__init__] - 🚀 Memulai Inisialisasi SentimentRecoveryEngine...
+2026-02-16 17:42:09,905 - INFO - [__init__] - ✅ Konfigurasi Bisnis (Phase 05) berhasil dimuat.
+2026-02-16 17:42:18,475 - INFO - [__init__] - ✅ Model Sentiment Predictor (Phase 03) berhasil dimuat.
+2026-02-16 17:42:18,486 - INFO - [execute_pipeline] - ▶️ START PIPELINE EXECUTION
+2026-02-16 17:42:18,488 - INFO - [execute_pipeline] - 📂 Membaca Raw Data dari: c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\processed\01_olist_master_join_cleaned.csv
+2026-02-16 17:42:23,535 - INFO - [execute_pipeline] -    Data dimuat: 110,182 baris.
+2026-02-16 17:42:23,537 - INFO - [run_inference] - 🧠 Menjalankan AI Inference (Prediksi Sentimen)...
+2026-02-16 17:42:23,571 - INFO - [run_inference] -    ...Preprocessing teks ulasan
+2026-02-16 17:42:24,229 - INFO - [run_inference] -    ...Melakukan prediksi batch
+2026-02-16 17:42:42,164 - INFO - [apply_prescriptive_logic] - ⚖️ Menerapkan Prescriptive Logic (Business Rules)...
+2026-02-16 17:42:42,365 - INFO - [execute_pipeline] - 💾 Menyimpan hasil ke Parquet: c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\production\sentiment\final_actionable_list.parquet
+2026-02-16 17:42:48,027 - INFO - [execute_pipeline] - 📊 Menyimpan salinan Excel (CSV): c:\Users\etc\OneDrive\Documents\Marketing Data Analyst Portofolio\Olist_Ecommerce_Analytics_Portfolio\data\production\sentiment\final_actionable_list.csv
+2026-02-16 17:43:00,315 - INFO - [execute_pipeline] - 📊 DAILY SUMMARY REPORT:
+2026-02-16 17:43:00,322 - INFO - [execute_pipeline] - {
+  "execution_date": "2026-02-16 17:43:00",
+  "total_processed": 110182,
+  "negative_sentiment_detected": 0,
+  "critical_recovery_actions": 0,
+  "total_revenue_at_risk": 0.0,
+  "status": "SUCCESS"
+}
+2026-02-16 17:43:00,324 - INFO - [execute_pipeline] - 🏁 Execution Finished. Duration: 0:00:41.835992
