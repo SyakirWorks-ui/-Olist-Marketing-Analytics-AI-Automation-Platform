@@ -1,0 +1,48 @@
+{
+    "project": "Olist E-commerce Growth Engine",
+    "last_updated": "2026-02-05T15:21:33.280126",
+    "retention_rate": "92.48%",
+    "schema_config": {
+        "expected_feature_count": 43,
+        "valid_customer_states": [
+            "AC",
+            "AL",
+            "AM",
+            "AP",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MG",
+            "MS",
+            "MT",
+            "PA",
+            "PB",
+            "PE",
+            "PI",
+            "PR",
+            "RJ",
+            "RN",
+            "RO",
+            "RR",
+            "RS",
+            "SC",
+            "SE",
+            "SP",
+            "TO"
+        ]
+    },
+    "business_constraints": {
+        "max_price_threshold": 887.3610000000044,
+        "required_columns": [
+            "order_id",
+            "customer_id",
+            "price",
+            "customer_state"
+        ]
+    },
+    "last_production_run": "2026-02-05T16:02:16.843288",
+    "final_row_count": 110182
+}
