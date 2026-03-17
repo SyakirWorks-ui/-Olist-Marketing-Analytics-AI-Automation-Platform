@@ -107,7 +107,8 @@ Classifies customers based on transactional behavior to drive personalized marke
 | Customer Segmentation & Monetary Value | Strategic Recovery Actions |
 |---|---|
 | ![Customer Segmentation](<img width="993" height="450" alt="customer segmentation" src="https://github.com/user-attachments/assets/5940de20-8af0-40bf-b6d4-b1068f1b1157" />
-) | ![Recovery Actions](<img width="993" height="450" alt="customer segmentation" src="https://github.com/user-attachments/assets/66261a72-c35e-48fa-821e-5d880c61ad59" />
+) | ![Recovery Actions](<img width="1077" height="450" alt="strategic recomendation" src="https://github.com/user-attachments/assets/98191ebd-7ef8-4120-bfa5-30a66c050e99" />
+
 ) |
 | *Visualization of the composition of 'Champions' to 'At Risk' segments based on monetary contribution.* | *Automated distribution of recovery actions to minimize churn among critical customers.* |
 
