@@ -37,14 +37,14 @@ The project is organized into two distinct phases for each module: **Research** 
 
 ```text
 olist-marketing-automation/
-├── 01_sales_performance/
-├── 02_logistic_delivery/
-├── 03_customer_rfm/
-├── 04_sentiment_analysis/
-│   ├── data/                 # Raw & Processed (.parquet, .csv)
-│   ├── notebooks/            # R&D: EDA & Model Training (.ipynb)
+│   ├── models/               # Model Trained (jobib, json)
+│   ├── notebooks/            # R&D: EDA, Model Training, prescriptive (.ipynb)
 │   ├── src/                  # Production: Automation Engines (.py)
 │   ├── dashboard/            # Executive Command Center (app.py)
+├── olist_production/
+├── 02_logistic_analytics_data.parquet/
+├── 03_customer_rfm_features.parquet/
+├── 04_sentiment_staging.parquet/
 ```
 
 ---
