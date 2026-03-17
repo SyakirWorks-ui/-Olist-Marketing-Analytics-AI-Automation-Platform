@@ -1,0 +1,42 @@
+{
+    "New/Potential": {
+        "top_categories": [
+            "health_beauty",
+            "bed_bath_table",
+            "housewares"
+        ],
+        "preferred_payment": "credit_card",
+        "recommended_channel": "Email/Push",
+        "promo_tactic": "Installment Promo"
+    },
+    "Loyal Customers": {
+        "top_categories": [
+            "bed_bath_table",
+            "sports_leisure",
+            "furniture_decor"
+        ],
+        "preferred_payment": "credit_card",
+        "recommended_channel": "Email/Push",
+        "promo_tactic": "Installment Promo"
+    },
+    "Champions": {
+        "top_categories": [
+            "bed_bath_table",
+            "health_beauty",
+            "sports_leisure"
+        ],
+        "preferred_payment": "credit_card",
+        "recommended_channel": "WhatsApp",
+        "promo_tactic": "Loyalty Points"
+    },
+    "At Risk / Dormant": {
+        "top_categories": [
+            "bed_bath_table",
+            "watches_gifts",
+            "health_beauty"
+        ],
+        "preferred_payment": "credit_card",
+        "recommended_channel": "Email/Push",
+        "promo_tactic": "Installment Promo"
+    }
+}

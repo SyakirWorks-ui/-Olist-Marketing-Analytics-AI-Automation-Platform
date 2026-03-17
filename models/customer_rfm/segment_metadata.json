@@ -1,0 +1,22 @@
+{
+    "0": {
+        "label": "Champions",
+        "desc": "Belanja baru-baru ini, sangat sering, dan nilai tinggi.",
+        "action": "Loyalty Program & Early Access"
+    },
+    "1": {
+        "label": "Loyalists",
+        "desc": "Pelanggan setia dengan frekuensi stabil.",
+        "action": "Upselling & Cross-selling"
+    },
+    "2": {
+        "label": "At Risk",
+        "desc": "Sudah lama tidak belanja, butuh reaktivasi.",
+        "action": "Limited Time Discount"
+    },
+    "3": {
+        "label": "Hibernating",
+        "desc": "Nilai rendah dan sudah lama tidak aktif.",
+        "action": "Price Sensitivity Campaigns"
+    }
+}
