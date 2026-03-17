@@ -82,38 +82,47 @@ To represent the business growth of Olist, the following key metrics were analyz
 
 | Monthly Revenue & Growth | Top 10 Categories by GMV |
 |---|---|
-| ![Monthly Revenue](https://raw.githubusercontent.com/yourusername/olist-marketing-automation/main/reports/Monthly%20Revenue.png) | ![Top 10 Product](https://raw.githubusercontent.com/yourusername/olist-marketing-automation/main/reports/Top%2010%20Product%20by%20GMV.png) |
+| ![Monthly Revenue](<img width="1246" height="667" alt="Monthly Revenue" src="https://github.com/user-attachments/assets/ecf6d711-793e-4247-9241-d9c46ab49e06" />
+) | ![Top 10 Product](<img width="715" height="583" alt="Top 10 Product by GMV" src="https://github.com/user-attachments/assets/e2267c7d-ae03-4bc3-a142-dadcf033ddcd" />
+) |
 | *Visualizing a steady revenue climb with a peak in late 2017.* | *Health & Beauty leads the GMV contribution at 14.7%.* |
 
 ---
 
 ### 🚚 Project 2: Logistics & Delivery Excellence
-Fokus pada optimalisasi rantai pasok dan pemetaan performa pengiriman di seluruh negara bagian Brasil untuk menekan angka keterlambatan.
+Focuses on supply chain optimization and delivery performance mapping across Brazilian states to minimize latency and delays.
 
 | State Performance: Lead Time vs OTD% | Olist Business Priority Matrix |
 |---|---|
-| ![State Performance](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/state_performance.png) | ![Priority Matrix](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/olist%20business%20priority%20matrix.png) |
-| *Analisis korelasi antara waktu pengiriman rata-rata dan persentase On-Time Delivery.* | *Pemetaan topik masalah untuk menentukan skala prioritas perbaikan operasional.* |
+| ![State Performance](<img width="993" height="450" alt="state_performance" src="https://github.com/user-attachments/assets/3909133b-4f85-4285-93cf-ab78095f406e" />
+) | ![Correlation Matrix](<img width="993" height="450" alt="state_performance" src="https://github.com/user-attachments/assets/bd740b6e-c0ab-425a-a0ce-30cc0b93d49c" />
+) |
+| *Correlation analysis between average delivery time and On-Time Delivery percentage.* | *Mapping of problem topics to determine the priority scale of operational improvements.* |
 
 ---
 
 ### 👥 Project 3: Customer Segmentation (RFM Analysis)
-Mengklasifikasikan pelanggan berdasarkan perilaku transaksi untuk personalisasi strategi pemasaran dan peningkatan retensi.
+Classifies customers based on transactional behavior to drive personalized marketing strategies and improve retention rates.
 
 | Customer Segmentation & Monetary Value | Strategic Recovery Actions |
 |---|---|
-| ![Customer Segmentation](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/customer%20segmentation.png) | ![Recovery Actions](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3e4ca5.png) |
-| *Visualisasi komposisi segmen 'Champions' hingga 'At Risk' berdasarkan kontribusi moneter.* | *Distribusi tindakan pemulihan otomatis untuk meminimalkan churn pada pelanggan kritis.* |
+| ![Customer Segmentation](<img width="993" height="450" alt="customer segmentation" src="https://github.com/user-attachments/assets/5940de20-8af0-40bf-b6d4-b1068f1b1157" />
+) | ![Recovery Actions](<img width="993" height="450" alt="customer segmentation" src="https://github.com/user-attachments/assets/66261a72-c35e-48fa-821e-5d880c61ad59" />
+) |
+| *Visualization of the composition of 'Champions' to 'At Risk' segments based on monetary contribution.* | *Automated distribution of recovery actions to minimize churn among critical customers.* |
 
 ---
 
 ### 🤖 Project 4: AI Sentiment Command Center
-Implementasi NLP (Natural Language Processing) untuk mendeteksi sentimen pelanggan secara real-time dan mengotomatisasi respon layanan pelanggan.
+Implementation of Natural Language Processing (NLP) to detect customer sentiment in real-time and automate customer service responses.
 
-| AI Sentiment Command Center Overview | Keyword Impact Analysis |
+| Priority Matrix | Keyword Impact Analysis |
 |---|---|
-| ![Sentiment Overview](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3ec182.png) | ![Keyword Impact](https://raw.githubusercontent.com/yourusername/olist-analytics/main/reports/image_3e4ce0.png) |
-| *Monitoring sentimen negatif secara real-time dengan estimasi Revenue at Risk.* | *Top 20 kata kunci dalam bahasa Portugis yang paling memengaruhi prediksi model AI.* |
+| ![Confusion Matrix](<img width="1035" height="939" alt="confusion matrix" src="https://github.com/user-attachments/assets/26ab4a8b-17f4-4e42-a821-a7d48bdccd11" />
+) | ![Keyword Impact](<img width="912" height="547" alt="image" src="https://github.com/user-attachments/assets/608b2d48-0d75-4cb9-a2e2-2b660ef357d2" />
+) |
+| - **Sentiment Analytics**: Leverages AI to categorize feedback and calculate an 'AI Confidence' score for high-precision monitoring.
+  - **Operational Recovery**: Maps specific AI-driven recommendations (e.g., Vouchers, CS Priority) to critical customer cases to protect future revenue. |
 
 ---
 ## 🤝 Contact & Contribution
@@ -123,6 +132,7 @@ I am a Data Analyst passionate about transforming complex datasets into clear bu
 * **LinkedIn**: [https://www.linkedin.com/in/syakirworks/]
 * **Email**: [syakirworksid@gmail.com]
 * **Fiverr**: [https://www.fiverr.com/sellers/tajulmuluk/]
+* **Upwork**: [https://www.upwork.com/freelancers/~01dc67531f5441b58a]
 
 ---
 *Developed as part of the iFood Marketing Intelligence Project - 2026*
